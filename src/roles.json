@@ -1,17 +1,17 @@
 [
   {
-    "id": "washerwoman",
-    "name": "Washerwoman",
-    "edition": "tb",
+    "id": "zhenhuan",
+    "name": "zhenhuan",
+    "edition": "Zhen Xuan kill",
     "team": "townsfolk",
-    "firstNight": 32,
-    "firstNightReminder": "Show the character token of a Townsfolk in play. Point to two players, one of which is that character.",
+    "firstNight": 0,
+    "firstNightReminder": "Pay attention to hiding your identity.",
     "otherNight": 0,
     "otherNightReminder": "",
     "reminders": ["Townsfolk",
         "Wrong"],
     "setup": false,
-    "ability": "You start knowing that 1 of 2 players is a particular Townsfolk."
+    "ability": "When you are killed by the emperor at night, you can kill the emperor and become the queen."
   },
   {
     "id": "librarian",
